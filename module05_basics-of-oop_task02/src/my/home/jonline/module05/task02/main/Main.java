@@ -4,6 +4,11 @@ import my.home.jonline.module05.task02.entity.Payment;
 import my.home.jonline.module05.task02.logic.PaymentAction;
 import my.home.jonline.module05.task02.view.View;
 
+/*
+ * Создать класс Payment с внутренним классом, с помощью объектов которого можно сформировать покупку из
+нескольких товаров.
+ * 
+ */
 public class Main {
 
 	public static void main(String[] args) {

@@ -5,6 +5,12 @@ import my.home.jonline.module05.task01.entity.TextFile;
 import my.home.jonline.module05.task01.filemanager.FileManager;
 import my.home.jonline.module05.task01.view.View;
 
+/*
+ * Создать объект класса Текстовый файл, используя классы Файл, Директория. Методы: создать, переименовать,
+вывести на консоль содержимое, дополнить, удалить.
+ * 
+ */
+
 public class Main {
 
 	public static void main(String[] args) {
